@@ -6,5 +6,6 @@ public class Clase1 {
 	void metodo3(){}
 	void metodo4(){}
 	void metodo5(){}
+	void metodo8(){}
 	
 }
