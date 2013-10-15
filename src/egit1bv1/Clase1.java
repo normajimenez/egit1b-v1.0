@@ -8,6 +8,6 @@ public class Clase1 {
 	void metodo5(){}
 
 	void metodo8(){}
-
+	void metodo9(){}
 	
 }
