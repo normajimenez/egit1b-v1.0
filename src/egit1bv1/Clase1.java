@@ -9,5 +9,6 @@ public class Clase1 {
 
 	void metodo8(){}
 	void metodo9(){}
+	void metodo10(){}
 	
 }
